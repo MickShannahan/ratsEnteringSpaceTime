@@ -1,0 +1,276 @@
+[
+  {
+    "_id": "66072e9d350097d22bf9c279",
+    "country": "Italy",
+    "area": "Colosseum",
+    "labels": [
+      "urban",
+      "ruin"
+    ]
+  },
+  {
+    "_id": "66072e9d350097d22bf9c27a",
+    "country": "United States",
+    "area": "New New York",
+    "labels": [
+      "urban",
+      "metropolis"
+    ]
+  },
+  {
+    "_id": "66072e9d350097d22bf9c27b",
+    "country": "Japan",
+    "area": "Neo-Tokyo",
+    "labels": [
+      "urban"
+    ]
+  },
+  {
+    "_id": "66072e9d350097d22bf9c27c",
+    "country": "Egypt",
+    "area": "Capitol City Cairo",
+    "labels": [
+      "desert",
+      "urban"
+    ]
+  },
+  {
+    "_id": "66072e9d350097d22bf9c27d",
+    "country": "United States",
+    "area": "Area 51",
+    "labels": [
+      "desert",
+      "complex"
+    ]
+  },
+  {
+    "_id": "66072e9d350097d22bf9c27e",
+    "country": "Scotland",
+    "area": "Lake Loch Ness",
+    "labels": [
+      "temperate"
+    ]
+  },
+  {
+    "_id": "66072e9d350097d22bf9c27f",
+    "country": "Greece",
+    "area": "Acropolis of Athens",
+    "labels": [
+      "urban",
+      "ruin"
+    ]
+  },
+  {
+    "_id": "66072e9d350097d22bf9c280",
+    "country": "Antarctica",
+    "area": "South Pole Research Facility",
+    "labels": [
+      "arctic",
+      "complex"
+    ]
+  },
+  {
+    "_id": "66072e9d350097d22bf9c281",
+    "country": "Pangea",
+    "area": "Ancient Rainforest",
+    "labels": [
+      "tropical",
+      "prehistoric"
+    ]
+  },
+  {
+    "_id": "66072e9d350097d22bf9c282",
+    "country": "New United States",
+    "area": "Night City",
+    "labels": [
+      "urban",
+      "metropolis"
+    ]
+  },
+  {
+    "_id": "66072e9d350097d22bf9c283",
+    "country": "Australia",
+    "area": "Sydney Opera House",
+    "labels": [
+      "urban"
+    ]
+  },
+  {
+    "_id": "66072e9d350097d22bf9c284",
+    "country": "Scotland",
+    "area": "Highlands",
+    "labels": [
+      "temperate",
+      "mountains"
+    ]
+  },
+  {
+    "_id": "66072e9d350097d22bf9c285",
+    "country": "United States",
+    "area": "Hollywood",
+    "labels": [
+      "urban"
+    ]
+  },
+  {
+    "_id": "66072e9d350097d22bf9c286",
+    "country": "Atlantis",
+    "area": "Lost City",
+    "labels": [
+      "suburban",
+      "ruin"
+    ]
+  },
+  {
+    "_id": "66072e9d350097d22bf9c287",
+    "country": "England",
+    "area": "Ryan Coate's Vacation Home",
+    "labels": [
+      "temperate",
+      "suburban",
+      "forest"
+    ]
+  },
+  {
+    "_id": "66072e9d350097d22bf9c288",
+    "country": "United States",
+    "area": "Las Vegas",
+    "labels": [
+      "urban",
+      "desert"
+    ]
+  },
+  {
+    "_id": "66072e9d350097d22bf9c289",
+    "country": "Scotland",
+    "area": "Tintagel Castle",
+    "labels": [
+      "urban",
+      "ruin"
+    ]
+  },
+  {
+    "_id": "66072e9d350097d22bf9c28a",
+    "country": "United States",
+    "area": "Mount Rushmore",
+    "labels": [
+      "mountains",
+      "monument"
+    ]
+  },
+  {
+    "_id": "66072e9d350097d22bf9c28b",
+    "country": "Mesoamerica",
+    "area": "Tikal",
+    "labels": [
+      "jungle",
+      "ruin"
+    ]
+  },
+  {
+    "_id": "66072e9d350097d22bf9c28c",
+    "country": "Australia",
+    "area": "Uluru",
+    "labels": [
+      "desert",
+      "monument"
+    ]
+  },
+  {
+    "_id": "66072e9d350097d22bf9c28d",
+    "country": "Romania",
+    "area": "Transylvania Castle",
+    "labels": [
+      "mountains"
+    ]
+  },
+  {
+    "_id": "66072e9d350097d22bf9c28e",
+    "country": "New Zealand",
+    "area": "Mount Doom",
+    "labels": [
+      "volcanic",
+      "ruin"
+    ]
+  },
+  {
+    "_id": "66072e9d350097d22bf9c28f",
+    "country": "United States",
+    "area": "Silver Bridge",
+    "labels": [
+      "urban",
+      "bridge"
+    ]
+  },
+  {
+    "_id": "66072e9d350097d22bf9c290",
+    "country": "United Kingdom",
+    "area": "Stonehenge",
+    "labels": [
+      "temperate",
+      "ruin"
+    ]
+  },
+  {
+    "_id": "66072e9d350097d22bf9c291",
+    "country": "West Africa",
+    "area": "Pride Rock",
+    "labels": [
+      "dangerous",
+      "desert"
+    ]
+  },
+  {
+    "_id": "66072e9d350097d22bf9c292",
+    "country": "United States",
+    "area": "Grand Central Terminal",
+    "labels": [
+      "urban",
+      "building"
+    ]
+  },
+  {
+    "_id": "66072e9d350097d22bf9c293",
+    "country": "Atlantis",
+    "area": "Crystal Caves",
+    "labels": [
+      "subterranean",
+      "ruin"
+    ]
+  },
+  {
+    "_id": "66072e9d350097d22bf9c294",
+    "country": "United States",
+    "area": "Everglades National Park",
+    "labels": [
+      "swamp",
+      "tropical"
+    ]
+  },
+  {
+    "_id": "66072e9d350097d22bf9c295",
+    "country": "New Zealand",
+    "area": "Mirkwood",
+    "labels": [
+      "forest",
+      "dangerous"
+    ]
+  },
+  {
+    "_id": "66072e9d350097d22bf9c296",
+    "country": "Nepal",
+    "area": "Mount Everest",
+    "labels": [
+      "mountains"
+    ]
+  },
+  {
+    "_id": "66072e9d350097d22bf9c297",
+    "country": "Greece",
+    "area": "Olympia",
+    "labels": [
+      "urban",
+      "ruin"
+    ]
+  }
+]
