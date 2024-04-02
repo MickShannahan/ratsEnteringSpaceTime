@@ -2,8 +2,8 @@ import { Schema } from "mongoose";
 
 
 export const MissionSchema = new Schema({
+  codename: { type: String },
   objective: { type: String },
-  dangerLevel: { type: Number },
   year: { type: Number },
   ratId: { type: Schema.Types.ObjectId, ref: 'Rat', required: true },
   locationId: { type: Schema.Types.ObjectId, ref: 'Location', required: true },
