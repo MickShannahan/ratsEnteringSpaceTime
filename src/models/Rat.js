@@ -5,7 +5,7 @@ import { Schema } from "mongoose";
 export const RatSchema = new Schema({
   name: { type: String },
   picture: { type: String },
-  specialties: [{ type: String, enum: ['language', 'disguise', 'cooking', 'infiltration', 'elimination', 'under-cover', 'kung-fu', 'navigation', 'planes', 'cars', 'hacking', 'boats'] }]
+  specialties: [{ type: String }]
 }, { toJSON: { virtuals: true } })
 
 RatSchema.virtual('completedMissions', {

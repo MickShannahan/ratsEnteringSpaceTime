@@ -1,62 +1,122 @@
 [
   {
-    "operation": "Microshift",
-    "objective": "Infiltrate the Colosseum in Italy to rearrange seating during a pivotal event where Julius Caesar and Cleopatra are attending, leading them to bonding, resulting in increased cheese exports from Egypt to Rome.",
-    "year": "45 BC"
+    "_id": {
+      "$oid": "661318b62b884e1a68f45463"
+    },
+    "codename": "Microshift",
+    "objective": "Infiltrate the location to rearrange seating during a pivotal event where Julius Caesar and Cleopatra are attending, leading them to bonding, resulting in increased cheese exports from Egypt to Rome.",
+    "year": "45 BC",
+    "ratId": "6607279e350097d22bf9c26c",
+    "locationId": "66072e9d350097d22bf9c279"
   },
   {
-    "operation": "Nano-Nudge",
-    "objective": "Adjust traffic lights in New New York to delay a scientist's commute, causing them to miss a crucial meeting with investors that would have led to the invention of rat-termination technology, ensuring our future.",
-    "year": "2050 AD"
+    "_id": {
+      "$oid": "661318b62b884e1a68f45464"
+    },
+    "codename": "Nano-Nudge",
+    "objective": "Adjust traffic lights  to delay a scientist's commute, causing them to miss a crucial meeting with investors that would have led to the invention of rat-termination technology, ensuring our future.",
+    "year": "2050 AD",
+    "ratId": "6607279e350097d22bf9c26c",
+    "locationId": "66072e9d350097d22bf9c27a"
   },
   {
-    "operation": "Time Tweak",
-    "objective": "Manipulate vending machine prices in Neo-Tokyo to encourage citizens to purchase more pizza-flavored snacks, inadvertently boosting the local vending machine industry and providing rats with easier access to snacks in the future.",
-    "year": "2085 AD"
+    "_id": {
+      "$oid": "661318b62b884e1a68f45465"
+    },
+    "codename": "Time Tweak",
+    "objective": "Manipulate vending machine prices to encourage citizens to purchase more pizza-flavored snacks, inadvertently boosting the local vending machine industry and providing rats with easier access to snacks in the future.",
+    "year": "2085 AD",
+    "ratId": "6607279e350097d22bf9c26e",
+    "locationId": "66072e9d350097d22bf9c27b"
   },
   {
-    "operation": "The Star",
+    "_id": {
+      "$oid": "661318b62b884e1a68f45466"
+    },
+    "codename": "The Star",
     "objective": "Loosen the screws and bolts on a road rolling machine, so it may be easily disassembled during a pivotal night. Ensuring the survival of key crusaders.",
-    "year": "1988 AD"
+    "year": "1988 AD",
+    "ratId": "6607279e350097d22bf9c26e",
+    "locationId": "66072e9d350097d22bf9c27c"
   },
   {
-    "operation": "Butterfly Flutter",
-    "objective": "Release butterflies with altered wing patterns near Area 51, causing a distraction that allows rats to steal a shipment of gourmet cheeses intended for alien ambassadors, ensuring a lavish feast for rat parties in the future.",
-    "year": "1957 AD"
+    "_id": {
+      "$oid": "661318b62b884e1a68f45467"
+    },
+    "codename": "Butterfly Flutter",
+    "objective": "Release butterflies with altered wing patterns, causing a distraction that allows rats to steal a shipment of gourmet cheeses intended for alien ambassadors, ensuring a lavish feast for rat parties in the future.",
+    "year": "1957 AD",
+    "ratId": "6607279e350097d22bf9c26c",
+    "locationId": "66072e9d350097d22bf9c27d"
   },
   {
-    "operation": "Cheese Caper",
-    "objective": "Infiltrate a cheese warehouse in Paris and steal a shipment of aged cheddar, providing rats with a steady supply of high-quality cheese for future celebrations.",
-    "year": "2023 AD"
+    "_id": {
+      "$oid": "661318b62b884e1a68f45468"
+    },
+    "codename": "Cheese Caper",
+    "objective": "Infiltrate a cheese warehouse  and steal a shipment of space-cheddar, providing rat scientists with a rare cheese for study.",
+    "year": "2023 AD",
+    "ratId": "6607279e350097d22bf9c26d",
+    "locationId": "66072e9d350097d22bf9c27d"
   },
   {
-    "operation": "Wire Munch",
+    "_id": {
+      "$oid": "661318b62b884e1a68f45469"
+    },
+    "codename": "Wire Munch",
     "objective": "Chew through electrical wires in a laboratory conducting experiments on a rat behavior, causing a temporary power outage that disrupts the experiments and saves rats from being subjected to invasive studies.",
-    "year": "2015 AD"
+    "year": "2015 AD",
+    "ratId": "6607279e350097d22bf9c277",
+    "locationId": "66072e9d350097d22bf9c280"
   },
   {
-    "operation": "Plague Prevention",
+    "_id": {
+      "$oid": "661318b62b884e1a68f4546a"
+    },
+    "codename": "Plague Prevention",
     "objective": "Infiltrate a laboratory developing a rat-specific plague and sabotage the research, preventing the outbreak and ensuring rats enjoy a healthier future without the threat of disease.",
-    "year": "1918 AD"
+    "year": "1918 AD",
+    "ratId": "6607279e350097d22bf9c26e",
+    "locationId": "66072e9d350097d22bf9c280"
   },
   {
-    "operation": "Party Planner",
+    "_id": {
+      "$oid": "661318b62b884e1a68f4546b"
+    },
+    "codename": "Party Planner",
     "objective": "Hack into a human's calendar app and schedule a surprise pizza party in their office, diverting their attention away from rat extermination efforts and ensuring rats can thrive in peace.",
-    "year": "2029 AD"
+    "year": "2029 AD",
+    "ratId": "6607279e350097d22bf9c26d",
+    "locationId": "66072e9d350097d22bf9c287"
   },
   {
-    "operation": "Cheese Heist",
+    "_id": {
+      "$oid": "661318b62b884e1a68f4546c"
+    },
+    "codename": "Cheese Heist",
     "objective": "Sneak into a cheese auction and steal the last known sample of Oscypek cheese to preserve the sample indefinitely for rat kind.",
-    "year": "2035 AD"
+    "year": "2035 AD",
+    "ratId": "6607279e350097d22bf9c271",
+    "locationId": "66072e9d350097d22bf9c28d"
   },
   {
-    "operation": "Cheese Breeze",
+    "_id": {
+      "$oid": "661318b62b884e1a68f4546d"
+    },
+    "codename": "Cheese Breeze",
     "objective": "Chew through key fencing points near a human settlement releasing livestock and slowing down cheese production. This will reduce the scent of cheese from the settlement, keeping a rat colony carrying a deadly disease from discovering them",
-    "year": "1750 AD"
+    "year": "1750 AD",
+    "ratId": "6607279e350097d22bf9c277",
+    "locationId": "66072e9d350097d22bf9c27f"
   },
   {
-    "operation": "Quest",
+    "_id": {
+      "$oid": "661318b62b884e1a68f4546e"
+    },
+    "codename": "Quest",
     "objective": "Plant false clues leading humans on a wild goose chase for a mythical treasure, distracting them from rat extermination efforts.",
-    "year": "1587 AD"
+    "year": "1587 AD",
+    "ratId": "6607279e350097d22bf9c26f",
+    "locationId": "66072e9d350097d22bf9c295"
   }
 ]

@@ -4,7 +4,7 @@ import { dbContext } from "../db/DbContext.js"
 
 class MissionsService {
   async getMissions() {
-    const missions = await dbContext.Missions.find().populate('location rat')
+    const missions = await dbContext.Missions.find().populate('location rat', '-name -picture')
     return missions
   }
   async createMission(missionData) {
