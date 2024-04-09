@@ -11,7 +11,7 @@ export class RatsController extends BaseController {
     this.router
       .get('', this.getRats)
       .use(Auth0Provider.getAuthorizedUserInfo)
-      .get(':ratId/missions', this.getRatMissions)
+      .get('/:ratId/missions', this.getRatMissions)
   }
 
   async getRats(req, res, next) {

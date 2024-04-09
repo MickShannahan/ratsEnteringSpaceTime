@@ -9,7 +9,7 @@ class MissionsService {
   }
   async createMission(missionData) {
     const mission = await dbContext.Missions.create(missionData)
-    await mission.populate('rat location')
+    await mission.populate('rat location', '-name -picture')
     return mission
   }
   async updateMission(updateData) {
@@ -21,7 +21,7 @@ class MissionsService {
     original.objective = updateData.objective ? updateData.objective : original.objective
     original.completed = updateData.completed ? updateData.completed : original.completed
     await original.save()
-    await original.populate('rat location')
+    await original.populate('rat location', '-name -picture')
     return original
   }
   async getRatMissions(ratId) {
@@ -30,7 +30,7 @@ class MissionsService {
   }
 
   async getLocationMissions(locationId) {
-    const missions = await dbContext.Missions.find({ locationId }).populate('rat')
+    const missions = await dbContext.Missions.find({ locationId }).populate('rat', '-name -picture')
     return missions
   }
 
